@@ -53,3 +53,5 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 -   feat 3: Layouts for markdown
 -   feat 4: structure
     -   [Grid Blog Page](https://www.creative-tim.com/twcomponents/component/grid-blog-page)
+-   feat 5: Astro Glob and Props
+    -   [Astro.glob()](https://docs.astro.build/en/reference/api-reference/#astroglob)
