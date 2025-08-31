@@ -50,3 +50,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 -   feat 2: markdown and MDX
     -   [@astrojs/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/)
     -   [Markdown in Astro](https://docs.astro.build/en/guides/markdown-content/)
+-   feat 3: Layouts for markdown
