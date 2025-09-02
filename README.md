@@ -66,3 +66,7 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
     -   [Image](https://docs.astro.build/en/guides/images/#image-)
     -   [Picture](https://docs.astro.build/en/guides/images/#picture-)
 -   feat 11: images in collections
+
+#### Section 5 - Relations of Collections
+
+-   feat 12: pagination
