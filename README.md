@@ -55,3 +55,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
     -   [Grid Blog Page](https://www.creative-tim.com/twcomponents/component/grid-blog-page)
 -   feat 5: Astro Glob and Props
     -   [Astro.glob()](https://docs.astro.build/en/reference/api-reference/#astroglob)
+-   feat 6: Astro Collections
+    -   [Content collections](https://docs.astro.build/en/guides/content-collections/)
+    -   [Defining the collection schema](https://docs.astro.build/en/guides/content-collections/#defining-the-collection-schema)
