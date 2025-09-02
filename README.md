@@ -65,3 +65,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 -   feat 10: formats and resolutions for images
     -   [Image](https://docs.astro.build/en/guides/images/#image-)
     -   [Picture](https://docs.astro.build/en/guides/images/#picture-)
+-   feat 11: images in collections
