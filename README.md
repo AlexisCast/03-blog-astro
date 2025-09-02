@@ -58,3 +58,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 -   feat 6: Astro Collections
     -   [Content collections](https://docs.astro.build/en/guides/content-collections/)
     -   [Defining the collection schema](https://docs.astro.build/en/guides/content-collections/#defining-the-collection-schema)
+-   feat 7: Show blog entries - Collections
