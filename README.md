@@ -72,3 +72,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 -   feat 12: pagination
 -   feat 13: relations in collections
 -   feat 14: show author info in posts
+-   feat 15: all author entries
