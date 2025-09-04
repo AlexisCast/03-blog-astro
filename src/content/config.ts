@@ -14,6 +14,9 @@ const blogCollection = defineCollection({
 
     // Relation
     tags: z.array(z.string()),
+
+    // Boolean
+    isDraft: z.boolean().default(false),
   })
 });
 
