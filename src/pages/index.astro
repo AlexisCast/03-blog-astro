@@ -7,7 +7,10 @@ import { siteConfig } from "../config/site-config";
 import "../styles/global.css";
 import TypedBlogPost from "src/components/TypedBlogPost.astro";
 
-const blogPosts = await getCollection("blog");
+const blogPosts = await getCollection(
+	"blog",
+	(post) => post.data.isDraft === false
+);
 // console.log("🚀 ~ blogPosts:", blogPosts);
 ---
 
