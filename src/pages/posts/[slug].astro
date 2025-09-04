@@ -1,6 +1,7 @@
 ---
 import type { GetStaticPaths } from "astro";
 import { Image } from "astro:assets";
+import { getEntry } from "astro:content";
 import { getCollection } from "astro:content";
 
 import BlogLayout from "src/layouts/BlogLayout.astro";
@@ -23,6 +24,7 @@ export const getStaticPaths = (async () => {
 }) satisfies GetStaticPaths;
 
 const { post } = Astro.props;
+console.log("🚀 ~ post:", post.data);
 const frontmatter = post.data;
 
 const { Content, headings } = await post.render();

@@ -70,3 +70,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 #### Section 5 - Relations of Collections
 
 -   feat 12: pagination
+-   feat 13: relations in collections
