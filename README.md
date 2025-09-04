@@ -74,3 +74,5 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 -   feat 14: show author info in posts
 -   feat 15: all author entries
 -   feat 16: apply filters to collections
+-   feat 17: list of authors
+    -   [profile card](https://www.creative-tim.com/twcomponents/component/creating-a-simple-profile-card-with-tailwind-css)

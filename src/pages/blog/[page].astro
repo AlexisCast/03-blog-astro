@@ -21,6 +21,7 @@ const { page } = Astro.props;
 		<h1 class="text-3xl font-semibold capitalize lg:text-4xl text-white">
 			Baz's Paginated Blog
 		</h1>
+		<a href="/" class="home-link">Go to Home Page</a>
 	</div>
 
 	<section class="bg-gray-900" aria-label="Entradas de blog">
@@ -55,5 +56,16 @@ const { page } = Astro.props;
 
 	.disabled {
 		@apply bg-gray-600 hover:bg-gray-600;
+	}
+
+	.home-link {
+		background: none;
+		color: #2b7ffe;
+		text-decoration: none;
+	}
+
+	.home-link:hover {
+		background: none;
+		text-decoration: underline;
 	}
 </style>
