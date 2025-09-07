@@ -9,4 +9,5 @@ export default defineConfig({
 		plugins: [tailwindcss()],
 	},
 	integrations: [mdx()],
+	site: "http://localhost:4321",
 });
