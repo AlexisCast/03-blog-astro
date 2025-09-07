@@ -6,21 +6,11 @@ author: jane-doe
 # image: https://placehold.co/1400x900/
 image: "images/post-01.png"
 tags: [JavaScript, ES6, Programming]
-
+isDraft: false
 #layout: ../../layouts/BlogLayout.astro
 ---
 
-# {frontmatter.title}
-
-{/* # Explorando Funciones de ES6 */}
-
-{/* <!-- Mostrar imagen --> */}
-
-{/*<img
-	src="/assets/images/post-01.png"
-	width="350"
-	alt="Explorando Funciones de ES6"
-/>*/}
+# Explorando Funciones de ES6!
 
 JavaScript ES6 introdujo varias funciones nuevas que han hecho que la codificación en JavaScript sea más eficiente y agradable. Vamos a explorar algunas de estas funciones.
 
