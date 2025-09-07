@@ -84,3 +84,5 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 -   feat: 19: RSS Feed - Astro
     -   [Setting up @astrojs/rss](https://docs.astro.build/en/recipes/rss/#setting-up-astrojsrss)
     -   [Adding a stylesheet](https://docs.astro.build/en/recipes/rss/#adding-a-stylesheet)
+-   feat: 20: Deploy to Netlify
+    -   [Deploying to Netlify](https://docs.astro.build/en/deploy/netlify/)
