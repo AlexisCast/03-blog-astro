@@ -9,5 +9,5 @@ export default defineConfig({
 		plugins: [tailwindcss()],
 	},
 	integrations: [mdx()],
-	site: "http://localhost:4321",
+	site: "https://alexiscast-blog.netlify.app",
 });
