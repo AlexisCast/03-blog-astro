@@ -1,4 +1,4 @@
 export const siteConfig = {
-  title: "Baz's Blog",
+  title: "Alexis Castellanos Blog",
   description: "A blog built with Astro",
 }

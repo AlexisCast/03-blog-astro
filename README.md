@@ -81,8 +81,10 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 -   feat 18: HTTP Get - Endpoint
     -   [request](https://docs.astro.build/en/guides/endpoints/#request)
--   feat: 19: RSS Feed - Astro
+-   feat 19: RSS Feed - Astro
     -   [Setting up @astrojs/rss](https://docs.astro.build/en/recipes/rss/#setting-up-astrojsrss)
     -   [Adding a stylesheet](https://docs.astro.build/en/recipes/rss/#adding-a-stylesheet)
--   feat: 20: Deploy to Netlify
+-   feat 20: Deploy to Netlify
     -   [Deploying to Netlify](https://docs.astro.build/en/deploy/netlify/)
+-   feat 21: RSS auto-discovery
+    -   [Enabling RSS feed auto-discovery](https://docs.astro.build/en/recipes/rss/#enabling-rss-feed-auto-discovery)
