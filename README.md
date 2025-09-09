@@ -88,3 +88,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
     -   [Deploying to Netlify](https://docs.astro.build/en/deploy/netlify/)
 -   feat 21: RSS auto-discovery
     -   [Enabling RSS feed auto-discovery](https://docs.astro.build/en/recipes/rss/#enabling-rss-feed-auto-discovery)
+-   feat 22: Image and Content in News Feed
+    -   [sanitize-html markdown-it](https://gist.github.com/Klerith/8fe5c191e632ea7e0810d0568daaa1db)
+    -   Download 'Twine - RSS Reader' from App Store and enter you feed URL
